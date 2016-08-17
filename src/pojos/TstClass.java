@@ -16,5 +16,8 @@ public class TstClass {
 		// TODO Auto-generated method stub
 
 	}
+	public int feed(int x){
+		return x;
+	}
 
 }
